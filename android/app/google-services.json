@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540700617185",
+    "project_id": "vendredi-22b76",
+    "storage_bucket": "vendredi-22b76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540700617185:android:31d24da56df924168f0aa0",
+        "android_client_info": {
+          "package_name": "com.vendredi.vendredi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6zXq4fTImRG9EgmInv4C0579JPlhcJDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
